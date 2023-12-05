@@ -1,4 +1,4 @@
-[
+export const menuData = [
     {
         "id": 1,
         "name": "Home",
@@ -9,13 +9,13 @@
         "id": 2,
         "name": "Shop",
         "link": "/shop",
-        "active": false
+        "active": true
     },
     {
         "id": 3,
         "name": "Product",
         "link": "/product",
-        "active": false
+        "active": true
     },
     {
         "id": 4,
@@ -23,4 +23,4 @@
         "link": "/contact",
         "active": false
     }
-]
+];

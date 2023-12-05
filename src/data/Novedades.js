@@ -1,4 +1,4 @@
-[
+export const novedadeData = [
     {
         "id": 1,
         "title": "Curso de ReactJs",
@@ -14,4 +14,4 @@
         "title": "Curso React Native",
         "description": "Empieza a realizar aplicaciones mobile con la tecnologia mas solicitada en las empresas"
     }
-]
+];
